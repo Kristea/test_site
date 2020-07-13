@@ -1,0 +1,27 @@
+{
+  "path": "/",
+  "page_title": "New page",
+  "html_title": "new_page",
+  "meta_description": "",
+  "slices": [
+    {
+      "template": "text-content",
+      "cta": {
+        "select_link": [
+
+        ],
+        "text": "",
+        "link": ""
+      },
+      "headline": "Some text",
+      "content": "Some content",
+      "image": ""
+    },
+    {
+      "template": "showcase",
+      "slides": [
+
+      ]
+    }
+  ]
+}

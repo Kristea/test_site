@@ -16,3 +16,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- assets/content/pages/New page.json
