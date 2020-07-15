@@ -9,8 +9,8 @@
             <b-navbar-item tag="router-link" :to="{ path: '/' }">
                 Home
             </b-navbar-item>
-            <b-navbar-item tag="router-link" :to="{ path: '/about' }">
-                About
+            <b-navbar-item tag="router-link" :to="{ path: '/new_page' }">
+                New page
             </b-navbar-item>
             <b-navbar-item tag="router-link" :to="{ path: '/blog' }">
                 Blog
