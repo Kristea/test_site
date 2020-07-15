@@ -1,5 +1,11 @@
 
 export default {
+  generate:{
+    routes:[
+      '/about',
+      '/new_page'
+    ]
+  },
   /*
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
