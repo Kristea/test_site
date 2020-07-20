@@ -1,0 +1,32 @@
+{
+  "path": "/cake",
+  "page_title": "page with cake",
+  "html_title": "",
+  "meta_description": "",
+  "slices": [
+    {
+      "template": "text-content",
+      "cta": {
+        "select_link": "assets/content/pages/new_page.json",
+        "text": "a link",
+        "link": "link"
+      },
+      "headline": "Cake",
+      "image": "/v1594639596/samples/landscapes/beach-boat.jpg",
+      "content": ""
+    },
+    {
+      "template": "text-content",
+      "cta": {
+        "select_link": [
+
+        ],
+        "text": "",
+        "link": ""
+      },
+      "headline": "",
+      "content": "",
+      "image": ""
+    }
+  ]
+}
