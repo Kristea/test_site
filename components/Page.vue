@@ -1,11 +1,11 @@
 <template>
   <div>
-        
+
     <Nav />
-    
+
     <slot name="main">Main contnet goes here&hellip;</slot>
-  
-  </div>  
+
+  </div>
 </template>
 
 <script>
